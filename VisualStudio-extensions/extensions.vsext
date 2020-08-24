@@ -1,5 +1,5 @@
 {
-  "id": "90feeeee-ef5d-4925-a44d-67dda80a9de1",
+  "id": "fe6a1c6c-4a80-4749-b992-806c8eae91f1",
   "name": "My Visual Studio extensions",
   "description": "A collection of my Visual Studio extensions",
   "version": "1.0",
@@ -13,7 +13,7 @@
       "vsixId": "2E78AA18-E864-4FBB-B8C8-6186FC865DB3"
     },
     {
-      "name": "AsyncFixer",
+      "name": "AsyncFixer for Visual Studio 2019",
       "vsixId": "AsyncFixer.Vsix..edab5fce-e3aa-4fea-9d60-a07bc11d493b"
     },
     {
@@ -53,8 +53,8 @@
       "vsixId": "4c82e17d-927e-42d2-8460-b473ac7df316"
     },
     {
-      "name": "Conveyor by Keyoti",
-      "vsixId": "2cb9791f-b46d-4e4a-bead-6c6c8923c801"
+      "name": "CodeMaintainibility",
+      "vsixId": "CodeMaintainibility.570c23ad-f80c-4122-92cd-fcb21c8bd46e"
     },
     {
       "name": "CSS Tools 2019",
@@ -71,6 +71,10 @@
     {
       "name": "Extension Manager 2019",
       "vsixId": "4a196712-2c3f-4730-ad1d-e7cda4185eb2"
+    },
+    {
+      "name": "External Search",
+      "vsixId": "ExternalSearch.67873bfe-7c37-4a2e-8616-c3bf64959060"
     },
     {
       "name": "File Differ",
@@ -93,6 +97,10 @@
       "vsixId": "Glyphfriend.VS2019.RionWilliams.da26054d-2c11-4d71-87c2-a4fa188a09c2"
     },
     {
+      "name": "HexVisualizer 2019",
+      "vsixId": "HexVisualizer.Mladen Mihajlovic.037B393C-6286-4FC8-A428-9DE70E349513"
+    },
+    {
       "name": "Image Optimizer",
       "vsixId": "bf95754f-93d3-42ff-bfe3-e05d23188b08"
     },
@@ -109,6 +117,10 @@
       "vsixId": "9da28329-f9d5-4f18-91c3-d3285b103d1a"
     },
     {
+      "name": "License Header Manager",
+      "vsixId": "4c570677-8476-4d33-bd0c-da36c89287c8"
+    },
+    {
       "name": "Live Share",
       "vsixId": "Microsoft.VisualStudio.LiveShare"
     },
@@ -119,6 +131,10 @@
     {
       "name": "Microsoft Code Analysis 2019",
       "vsixId": "16454f43-db71-416c-a4f6-b168864a5abf"
+    },
+    {
+      "name": "Microsoft Visual Studio Installer Projects",
+      "vsixId": "VSInstallerProjects"
     },
     {
       "name": "Open Command Line",
@@ -135,6 +151,10 @@
     {
       "name": "PowerShell Tools for Visual Studio",
       "vsixId": "PowerShellTools.VS2017"
+    },
+    {
+      "name": "REST API Client Code Generator",
+      "vsixId": "18316dd0-2bbc-49b0-bd7c-c355031fade2"
     },
     {
       "name": "Security Code Scan",
@@ -183,6 +203,10 @@
     {
       "name": "Web Essentials 2019",
       "vsixId": "509fc133-d9a6-4cf7-a558-e00fd11e0f9f"
+    },
+    {
+      "name": "Web Search 2",
+      "vsixId": "81a66923-7fbf-4bdd-b2b6-bb1be6a71e9d"
     },
     {
       "name": "ZenCoding",
