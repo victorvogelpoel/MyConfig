@@ -1,5 +1,5 @@
 {
-  "id": "fe6a1c6c-4a80-4749-b992-806c8eae91f1",
+  "id": "ef4dd906-ec39-4896-86b9-6954b2fc6ee1",
   "name": "My Visual Studio extensions",
   "description": "A collection of my Visual Studio extensions",
   "version": "1.0",
@@ -159,6 +159,10 @@
     {
       "name": "Security Code Scan",
       "vsixId": "EA274E2A-E5EB-433B-9847-4CD27BE874EF"
+    },
+    {
+      "name": "Snippet Designer",
+      "vsixId": "d21b0d98-7dad-421e-895e-424a0a4e6f0e"
     },
     {
       "name": "Solution Error Visualizer",
