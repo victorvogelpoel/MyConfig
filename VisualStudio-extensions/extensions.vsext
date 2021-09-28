@@ -1,5 +1,5 @@
 {
-  "id": "ef4dd906-ec39-4896-86b9-6954b2fc6ee1",
+  "id": "eaaf58fd-640d-45a5-a3ac-4f77ef94237a",
   "name": "My Visual Studio extensions",
   "description": "A collection of my Visual Studio extensions",
   "version": "1.0",
@@ -53,7 +53,7 @@
       "vsixId": "4c82e17d-927e-42d2-8460-b473ac7df316"
     },
     {
-      "name": "CodeMaintainibility",
+      "name": "CodeMaintainability",
       "vsixId": "CodeMaintainibility.570c23ad-f80c-4122-92cd-fcb21c8bd46e"
     },
     {
@@ -101,6 +101,10 @@
       "vsixId": "HexVisualizer.Mladen Mihajlovic.037B393C-6286-4FC8-A428-9DE70E349513"
     },
     {
+      "name": "HTML Tools 2019",
+      "vsixId": "8682fae0-2ce9-49ea-93b5-edc92c118e2a"
+    },
+    {
       "name": "Image Optimizer",
       "vsixId": "bf95754f-93d3-42ff-bfe3-e05d23188b08"
     },
@@ -129,12 +133,16 @@
       "vsixId": "9ca64947-e9ca-4543-bfb8-6cce9be19fd6"
     },
     {
-      "name": "Microsoft Code Analysis 2019",
-      "vsixId": "16454f43-db71-416c-a4f6-b168864a5abf"
+      "name": "M-Files Online Visual Studio Extension",
+      "vsixId": "MFilesVSIX.6fca4065-aca2-4a8e-85d7-bdd53bc0c39d"
     },
     {
       "name": "Microsoft Visual Studio Installer Projects",
       "vsixId": "VSInstallerProjects"
+    },
+    {
+      "name": "Nupkg Tool",
+      "vsixId": "ec2c0fb1-3d9c-4252-a81a-e8c5dd92eb35"
     },
     {
       "name": "Open Command Line",
@@ -161,6 +169,10 @@
       "vsixId": "EA274E2A-E5EB-433B-9847-4CD27BE874EF"
     },
     {
+      "name": "Shortcut commander",
+      "vsixId": "ShortcutCommander.VSIX..56323777-fe33-4b3c-a61b-4423688c1dbd"
+    },
+    {
       "name": "Snippet Designer",
       "vsixId": "d21b0d98-7dad-421e-895e-424a0a4e6f0e"
     },
@@ -185,8 +197,8 @@
       "vsixId": "Winterdom.Viasfora.f7a33795-2b40-4125-856c-89b0bd8cd5ab"
     },
     {
-      "name": "Visual Studio IntelliCode",
-      "vsixId": "IntelliCode.VSIX.598224b2-b987-401b-8509-f568d0c0b946"
+      "name": "Visual Commander",
+      "vsixId": "9a7ebb7f-b08c-4e35-9898-a7b73468a624"
     },
     {
       "name": "Visual Studio Spell Checker (VS2017 and Later)",
@@ -207,6 +219,10 @@
     {
       "name": "Web Essentials 2019",
       "vsixId": "509fc133-d9a6-4cf7-a558-e00fd11e0f9f"
+    },
+    {
+      "name": "Web Live Preview (Preview)",
+      "vsixId": "Microsoft.WebTools.BrowserLink.WebLivePreview"
     },
     {
       "name": "Web Search 2",
